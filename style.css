@@ -1,0 +1,17 @@
+.Our_goal > h2{
+   text-align: center;
+   padding-top: 10px;
+   color: #FFF455;
+}
+
+.Our_goal > h2 > mark{
+    background-color: #070F2B ;
+}
+
+.text-end > button{
+    color: tomato;
+}
+
+p,h1{
+    font-family:serif;
+}
